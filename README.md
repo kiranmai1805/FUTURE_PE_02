@@ -1,6 +1,6 @@
 # FUTURE_PE_02
 Task_2
-# 🚀 Future Interns Prompt Engineering Internship – FUTURE_PE_01  
+# 🚀 Future Interns Prompt Engineering Internship – FUTURE_PE_02 
 
 Welcome to my **Prompt Engineering Internship** repository! This repository documents all the tasks, projects, and learnings from my internship journey at **Future Interns**.  
 
